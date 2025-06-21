@@ -4,12 +4,12 @@ Blockbuster Fake es una aplicación web desarrollada con Spring Boot, Thymeleaf 
 
 ## Características
 
-🧑‍💼 Gestión completa de clientes, películas y alquileres.
-📝 Registro de nuevos alquileres y actualización de estado (Activo, Devuelto, Retrasado).
-💾 Persistencia con Spring Data JPA y Hibernate.
-🎨 Interfaz moderna y responsiva con Thymeleaf, HTML5, CSS3 y FontAwesome.
-📊 Uso de combos (dropdowns) para relaciones foráneas (cliente, película).
-🧪 Validaciones de campos y mensajes de error/success con @Valid y Bootstrap.
+- Gestión completa de clientes, películas y alquileres.
+- Registro de nuevos alquileres y actualización de estado (Activo, Devuelto, Retrasado).
+- Persistencia con Spring Data JPA y Hibernate.
+- Interfaz moderna y responsiva con Thymeleaf, HTML5, CSS3 y FontAwesome.
+- Uso de combos (dropdowns) para relaciones foráneas (cliente, película).
+- Validaciones de campos y mensajes de error/success con @Valid y Bootstrap.
 
 ## Requisitos
 
