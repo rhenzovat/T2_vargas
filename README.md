@@ -95,3 +95,6 @@ La configuración principal se encuentra en [`src/main/resources/application.pro
 ## Licencia
 
 Este proyecto es de uso educativo para la asignatura de Desarrollo Web en Cibertec. Puedes modificarlo libremente para uso personal o académico.
+
+## AUTOR
+RENZO VARGAS TENORIO
